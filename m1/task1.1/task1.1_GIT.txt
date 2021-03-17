@@ -1,0 +1,37 @@
+734742c HEAD@{0}: merge develop: Fast-forward
+3077e7a HEAD@{1}: checkout: moving from develop to main
+734742c HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+23bc19a HEAD@{3}: merge images: Fast-forward
+a49f6ff HEAD@{4}: checkout: moving from develop to develop
+a49f6ff HEAD@{5}: checkout: moving from styles to develop
+a2a8a05 HEAD@{6}: checkout: moving from images to styles
+23bc19a HEAD@{7}: checkout: moving from develop to images
+a49f6ff HEAD@{8}: checkout: moving from styles to develop
+a2a8a05 HEAD@{9}: commit: added styles folder in branch styles
+a49f6ff HEAD@{10}: checkout: moving from styles to styles
+a49f6ff HEAD@{11}: checkout: moving from styles to styles
+a49f6ff HEAD@{12}: checkout: moving from develop to styles
+a49f6ff HEAD@{13}: checkout: moving from images to develop
+23bc19a HEAD@{14}: commit: added image in index.html
+4fd1289 HEAD@{15}: commit: move images to images
+aef4ed7 HEAD@{16}: commit: write to file wraning.txt
+2fcf119 HEAD@{17}: commit: write to file warning.txt
+00cd4e6 HEAD@{18}: commit: added images dir
+a49f6ff HEAD@{19}: checkout: moving from develop to images
+a49f6ff HEAD@{20}: checkout: moving from main to develop
+3077e7a HEAD@{21}: checkout: moving from images to main
+5a6e861 HEAD@{22}: commit: did some moves
+c125cbe HEAD@{23}: commit: did some moves
+d620f46 HEAD@{24}: commit: created directory images and added iso-file
+a49f6ff HEAD@{25}: checkout: moving from images to images
+a49f6ff HEAD@{26}: checkout: moving from iamges to images
+a49f6ff HEAD@{27}: checkout: moving from main to iamges
+3077e7a HEAD@{28}: checkout: moving from iamges to main
+a49f6ff HEAD@{29}: checkout: moving from develop to iamges
+a49f6ff HEAD@{30}: commit: added index.html
+3077e7a HEAD@{31}: checkout: moving from main to develop
+3077e7a HEAD@{32}: checkout: moving from develop to main
+3077e7a HEAD@{33}: checkout: moving from main to develop
+3077e7a HEAD@{34}: commit: deleted .README.md.swp
+1cbe219 HEAD@{35}: commit: added .gitignore
+5f283e0 HEAD@{36}: clone: from git@github.com:Vorting/DevOps_online_Dnipro_2021Q2.git
