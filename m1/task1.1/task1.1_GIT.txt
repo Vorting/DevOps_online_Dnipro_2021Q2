@@ -34,4 +34,4 @@ a49f6ff HEAD@{30}: commit: added index.html
 3077e7a HEAD@{33}: checkout: moving from main to develop
 3077e7a HEAD@{34}: commit: deleted .README.md.swp
 1cbe219 HEAD@{35}: commit: added .gitignore
-5f283e0 HEAD@{36}: clone: from git@github.com:Vorting/DevOps_online_Dnipro_2021Q1.git
+5f283e0 HEAD@{36}: clone: from git@github.com:Vorting/DevOps_online_Dnipro_2021Q2.git
