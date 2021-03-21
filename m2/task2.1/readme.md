@@ -4,7 +4,11 @@ Part 1. Hypervisors
 
 Part 2. Work with VB
 
-1. I got acquainted with user manual VB. Download VB.exe and install it on my pc with W10.
-2.I downloaded latest version of Ubuntu 20.04 and installed it according to the manual in chapter 1.8 on my VM1. I also acquainted with the possibilities of VM1 such as start, stop, reboot, save state used Host (right Ctrl) and keyboard shortcuts, mouse etc.
+2.1. I got acquainted with user manual VB. Download VB.exe and install it on my pc with W10.
+2.2 I downloaded latest version of Ubuntu 20.04 and installed it according to the manual in chapter 1.8 on my VM1. I also acquainted with the possibilities of VM1 such as start, stop, reboot, save state used Host (right Ctrl) and keyboard shortcuts, mouse etc. Then I cloned it to VM2.
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_1.png)
+
+2.3 I configured the usb to connect the usb-ports of the host machine [ch.3.11] and configured shared folder from win10 to virtual machine. On screenshot 2 you can see shared folder "Desktop_W10" in "/media/sf_Desktop_W10" and plugged usb-drive in /dev/sdb1 in "/media/vorting/CENTOS-8-2"
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_2.png) 
+
