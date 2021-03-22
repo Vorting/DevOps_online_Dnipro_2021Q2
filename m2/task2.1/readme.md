@@ -34,3 +34,9 @@ Part 3.work with vagrant
 When I completed my tasks, I stopped and deleted my VM.
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_9.png)
+
+On this screenshots I've created vm with ubuntu and used box from trusty64
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_10.png)
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_11.png)
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_12.png)
