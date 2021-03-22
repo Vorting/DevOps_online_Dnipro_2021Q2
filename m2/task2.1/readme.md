@@ -26,10 +26,11 @@ Part 3.work with vagrant
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_6.png)
 
 3.3. In "vagrant_test" I initialized the environment with default Vagrant box using the comand: "init hashicorp/precise64".Then I run VM created with vagrant, looked for the messages. When my vagrant_test virtual machine loaded I connected to it using putty, with default both username and password.
+
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_7.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_8.png)
 
-When I completed my tusks, I stopped and deleted my VM.
+When I completed my tasks, I stopped and deleted my VM.
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_9.png)
