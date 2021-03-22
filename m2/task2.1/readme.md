@@ -17,3 +17,5 @@ Part 2. Work with VB
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_4.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_5.png)
+
+Part 3.work with vagrant
