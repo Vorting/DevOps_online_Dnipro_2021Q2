@@ -9,6 +9,11 @@ Part 2. Work with VB
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_1.png)
 
-2.3 I configured the usb to connect the usb-ports of the host machine [ch.3.11] and configured shared folder from win10 to virtual machine. On screenshot 2 you can see shared folder "Desktop_W10" in "/media/sf_Desktop_W10" and plugged usb-drive in /dev/sdb1 in "/media/vorting/CENTOS-8-2"
+2.3 I configured the usb to connect the usb-ports of the host machine [ch.3.11] and configured shared folder from win10 to virtual machine. On screenshots 2,3,4 and 5 you can see shared folder "Desktop_W10" in "/media/sf_Desktop_W10" and plugged usb-drive in /dev/sdb1 in "/media/vorting/CENTOS-8-2"
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_2.png) 
 
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_3.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_4.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/raw/main/m2/task2.1/screenshots/screenshot_5.png)
