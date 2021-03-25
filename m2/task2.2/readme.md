@@ -9,11 +9,12 @@ create instance with EC2
 
 created a snapshot of my instance
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/snapshot.png)
-
-![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_1.png)
+I'v created and attached a Disk_D. Then I saved some files on it.
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/create_disk_D.png)
 
-![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_5.png)
-![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_4.png)
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_1.png)
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_3.png)
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_4.png)
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_5.png)
+
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_1.png)
