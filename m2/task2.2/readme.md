@@ -5,7 +5,7 @@ I acquainted with the terms of using the AWS Free Tier. I registered and explore
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_wordPress.png)
 
 create instance with EC2
-![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/instance.png)
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/instance_EC2.png)
 
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_1.png)
