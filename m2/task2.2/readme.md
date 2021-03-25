@@ -7,10 +7,12 @@ I acquainted with the terms of using the AWS Free Tier. I registered and explore
 create instance with EC2
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/instance_EC2.png)
 
+created a snapshot of my instance
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/snapshot.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_1.png)
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/create_disk_D.png)
-![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/snapshot.png)
+
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_5.png)
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_4.png)
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_3.png)
