@@ -22,6 +22,7 @@ On this step I used AWS CLI to upload files to the cloud Amazon S3.
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_aws_config.png)
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_aws_config2.png)
 And I downloaded file to bucket through AWS CLI
+
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_cp_to_bucket.png)
  
 
