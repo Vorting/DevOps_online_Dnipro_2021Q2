@@ -24,5 +24,10 @@ On this step I used AWS CLI to upload files to the cloud Amazon S3.
 And I downloaded file to bucket through AWS CLI
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/screenshot_cp_to_bucket.png)
- 
+
+On this step I deployed Docker containers 
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m2/task2.2/screenshots/Amazon ECS_fargate.png)
+
+Link to my static website on Amazon S3:
+http://ivanovbucket.s3-website.eu-west-3.amazonaws.com/ 
 
