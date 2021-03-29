@@ -1,6 +1,7 @@
 Module 3 Database Administration
 
-Work with SELECT operator with WHERE, GROUP BY and ORDER BY. Also practicing with different SQL queries such as DDL (CREATE,DROP,RENAME), DML(SELECT, UPDATE, DELETE) and DCL(GRANT, REVOKE). 
+
+Part 1. Work with SELECT operator with WHERE, GROUP BY and ORDER BY. Also practicing with different SQL queries such as DDL (CREATE,DROP,RENAME), DML(SELECT, UPDATE, DELETE) and DCL(GRANT, REVOKE). 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/create_DB.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/create_DB_2.png)
@@ -22,5 +23,10 @@ Work with SELECT operator with WHERE, GROUP BY and ORDER BY. Also practicing wit
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/grants_for_user1.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/revoke_drop_user1.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/tables_in_mysql.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/select_in_mysql.png)
+
 
 
