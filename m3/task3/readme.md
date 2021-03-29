@@ -13,5 +13,14 @@ Work with SELECT operator with WHERE, GROUP BY and ORDER BY. Also practicing wit
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/select_and_where_SQL_2.png)
 
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/create_admin.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/create_select_to_user1.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/denied_to_user1.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/grants_for_user1.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/revoke_drop_user1.png)
 
 
