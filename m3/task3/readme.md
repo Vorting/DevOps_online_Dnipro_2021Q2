@@ -28,5 +28,12 @@ Part 1. Work with SELECT operator with WHERE, GROUP BY and ORDER BY. Also practi
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/select_in_mysql.png)
 
+Part 2
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_delete.png)
 
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_drop.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_dump.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_delete.png)
 
