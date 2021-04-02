@@ -50,3 +50,6 @@ I have to rename my DB name because AWS RDS forbids using \_ contain only letter
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_rds_import_db1.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_rds_import_db2.png)
+
+I made backup from AWS RDS to my local machine
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/dump_rds.png)
