@@ -41,3 +41,12 @@ Then I restored my table studentInfo from database DevOps_EPAM;
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_restore.png)
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_restore_part_2.png)
+
+I have to rename my DB name because AWS RDS forbids using \_ contain only letters, digits, or hyphens. 
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_rename_db.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_rds.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_rds_import_db1.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_rds_import_db2.png)
