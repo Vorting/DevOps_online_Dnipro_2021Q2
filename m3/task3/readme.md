@@ -36,5 +36,8 @@ Part 2
 
 ![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_dump.png)
 
-![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_delete.png)
+Then I restored my table studentInfo from database DevOps_EPAM;
 
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_restore.png)
+
+![](https://github.com/Vorting/DevOps_online_Dnipro_2021Q2/blob/main/m3/task3/screenshots/sql_restore_part_2.png)
